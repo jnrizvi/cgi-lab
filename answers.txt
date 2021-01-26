@@ -1,11 +1,22 @@
 Question 1:
+We can print json.dumps(dict(os.environ)
 
 Question 2:
+The environment variable "QUERY_STRING" contains our query string.
+For example, if we add ?sponser=raycon, "QUERY_STRING": "sponser=raycon".
 
 Question 3:
+HTTP_USER_AGENT
 
 Question 4:
 
+
 Question 5:
+How to set a cookie? Note: check my browser allows some cookies or they won't work
+MDN set cookie header 
+python cgi set cookie header
 
 Question 6:
+
+
+Question 7:
