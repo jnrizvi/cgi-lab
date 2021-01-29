@@ -12,11 +12,13 @@ Question 4:
 
 
 Question 5:
-How to set a cookie? Note: check my browser allows some cookies or they won't work
-MDN set cookie header 
-python cgi set cookie header
+
 
 Question 6:
 
 
 Question 7:
+For caching data for later access. I have used it before for authentication.
+
+Question 8:
+https://github.com/jnrizvi/cgi-lab
